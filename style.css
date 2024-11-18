@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+  }
+  h1 {
+    color: black;
+    text-transform: uppercase;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  } 
+  p {
+    font-size: 1.5rem;
+    color: #333;
+  }
+  button {
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+  }
+  button:hover {
+    background-color:darkgreen;
+  }
+  
